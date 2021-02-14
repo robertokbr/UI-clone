@@ -53,18 +53,12 @@ $ yarn install
 # Run the app
 $ yarn start
 ```
----
+
 
 ### Project Motivations:
 - Handle complex animations with Framer-motion and context-api
 
-
-
-[nodejs]: https://nodejs.org/
-[yarn]: https://yarnpkg.com/
-[vc]: https://code.visualstudio.com/
-[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+---
 
 
 <h1 align="center">
