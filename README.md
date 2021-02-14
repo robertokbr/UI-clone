@@ -30,7 +30,7 @@ Tesla Home page UI clone maded with React.JS
 
 
 
-# 🚧 In progress
+# 🚧 Techs
 
 - [ReactJs with Typescript](https://reactjs.org) - A JavaScript library for building user interfaces
 - [Context-Api]()
@@ -102,7 +102,7 @@ $ yarn start
 </p>
 
 
-# 🚧 In progress
+# 🚧 Techs
 
 - [React-Native with Typescript](https://reactjs.org) - A JavaScript library for building user interfaces
 - [Expo]()
